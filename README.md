@@ -1,19 +1,7 @@
-# Installation
+# Cache Bank Business Landing Page Portfolio Piece 
 
-```
-# Install dependencies
-npm install
+Hi, I'm Tiffany. In this video, I showcase the creation of a responsive cache bank website with components using HTML, CSS, Tailwind, and JavaScript. I detail the navigation bar, login/signup buttons, and design elements for mobile users.
 
-# Start the development server with live preview using Browsersync
-npm run browsersync
+Link to Loom Recorded Presentation - https://www.loom.com/share/9c6fef0a73f048dab2dff2e825c9cbc9?sid=b5ebcb48-a841-4c24-bcb3-08285b453149
 
-# Compile Tailwind CSS
-npm run build
-
-# Compile Tailwind CSS minified
-npm run build-minify
-
-```
-
-# Presentation Talking Points and Presentation Slide Template
-Check out the Project Overview in this GitHub Repo for the guide to talking points for your presentation as well the starter template for your Google Slides here: https://github.com/CodeSpace-Academy/SDF_Portfolio_Piece_StudentNo_Classcode_Group_Name-Surname_SDF11/blob/main/11_portfolio_piece_1.md
+Link to Presentation Slides - https://docs.google.com/presentation/d/1nkGNFuWe7z-tVeba5DiMyBZMTU3gyyn-9_TzyONN8p4/edit?usp=sharing
