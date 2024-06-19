@@ -1,6 +1,6 @@
 # Cache Bank Business Landing Page Portfolio Piece 
 
-Hi, I'm Tiffany. In this video, I showcase the creation of a responsive cache bank website with components using HTML, CSS, Tailwind, and JavaScript. I detail the navigation bar, login/signup buttons, and design elements for mobile users.
+Hi, I'm Tiffany. I showcase the creation of a responsive cache bank website using HTML, CSS, Tailwind, and JavaScript. I detail the navigation bar, login/signup buttons, and design elements for mobile and desktop users.
 
 Link to Loom Recorded Presentation - https://www.loom.com/share/9c6fef0a73f048dab2dff2e825c9cbc9?sid=b5ebcb48-a841-4c24-bcb3-08285b453149
 
